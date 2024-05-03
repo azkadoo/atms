@@ -1,2 +1,2 @@
 # atms
-Course assignments from college, do a data cleaning using Jupyter Notebook / Google Colab
+Data cleaning using Jupyter Notebook / Google Colab. Created to fulfill the course assignments.
